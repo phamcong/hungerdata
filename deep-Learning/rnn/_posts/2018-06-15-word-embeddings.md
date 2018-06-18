@@ -3,7 +3,7 @@ layout: post
 title: "Word embeddings practical questions"
 description: "Course RNN - Week 2 - Practical questions"
 categories: []
-tags: [work-embeddings-tutorial]
+tags: [word-embeddings-tutorial]
 redirect_from:
   - /2018/06/15/
 ---
