@@ -21,4 +21,11 @@ redirect_from:
 
 ## Blogs
 
-* [Andrej Karpathy blog](http://karpathy.github.io/)
+## Books
+
++ Deep Learning with Python - Jason Brownlee.
++ Deep Learning with Python - Francois Chollet: [Github](https://l.facebook.com/l.php?u=https%3A%2F%2Fgithub.com%2Ffchollet%2Fdeep-learning-with-python-notebooks&h=AT37mPmfCxlWoFPRmFlW5zN696nDcf2zW44cN7BzQQae_j_kAz3zlUN6Mg1bSPQ1DmMa0KJ0If8Kki3donNGvTRwQzThunYL_LGF6aHw059_46VBsHaq6qnoqcH9WNhFG86QdxZrQWE)
++ Deep Learning with Keras - Antonio Gulli
++ Deep Learning MEAP - Andrew W. Trask
+
+
