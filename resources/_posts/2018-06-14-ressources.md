@@ -21,6 +21,7 @@ redirect_from:
 
 ## Blogs
 + Strongly recommended blogs: [Colah' Blog](http://colah.github.io/)
++ [The SEPTENI TECHNOLOGY Blog](https://labs.septeni-technology.jp/category/machine-learning/)
 
 ## Books
 
@@ -30,8 +31,10 @@ redirect_from:
 + Deep Learning MEAP - Andrew W. Trask
 + [Deep Learning](http://www.deeplearningbook.org/front_matter.pdf) An MIT Press book - Ian Goodfellow and Yoshua Bengio and Aaron Courville: [Link](http://www.deeplearningbook.org/), [Lectures](http://www.deeplearningbook.org/lecture_slides.html)
 + Online Neural Networks and Deep Learning Book - [Michael Nielsen](http://michaelnielsen.org/): [Link](ttp://neuralnetworksanddeeplearning.com/); [Github](https://github.com/mnielsen/neural-networks-and-deep-learning)
++ The Most Human Human: What Artificial Intelligence Teaches Us About Being Alive - Brian Christian
 
 
 ## Youtube channels:
 + https://www.youtube.com/user/Taylorns34/videos
 + https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/videos
++ https://www.youtube.com/channel/UC4UJ26WkceqONNF5S26OiVw/videos

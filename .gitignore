@@ -16,3 +16,5 @@ yarn.lock
 # Ignore Yard Doc
 /doc
 .yardoc/
+_posts/images/*
+_posts/Introduction-2-CNN-formated-CCPham.zip
